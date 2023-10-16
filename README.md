@@ -30,7 +30,7 @@ The Power BI analysis includes:
 The analysis utilizes the following data sources:
 
 - E-commerce sales dataset: [ECOMM_DATA.xlsx](ECOMM_DATA.xlsx)
-- E-commerce Power BI dashboard file: []()
+- E-commerce Power BI dashboard file: [Ecommerce_Sales.pbix](Ecommerce_Sales.pbix)
 
 
 # Visualizations
